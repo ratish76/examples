@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.springframework.data.cassandra.core.mapping.PrimaryKeyClass"/>
+<fullyQualifiedTypeName name="org.springframework.data.cassandra.core.mapping.PrimaryKeyColumn"/>
+<fullyQualifiedTypeName name="org.springframework.data.cql.core.PrimaryKeyType"/>
+<fullyQualifiedTypeName name="sample.data.cassandra.CustomerId"/>
+</qualifiedTypeNameHistroy>
